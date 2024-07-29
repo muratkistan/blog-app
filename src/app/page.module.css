@@ -25,17 +25,17 @@
   animation: move 3s infinite ease alternate;
 }
 
-/* @keyframes move {
+@keyframes move {
   from {
     transform: translateY(-10px);
   }
   to {
     transform: translateY(10px);
   }
-} */
+}
 
 
-/* .desc {
+.desc {
   font-size: 24px;
   font-weight: 300;
-} */
+}
