@@ -1,0 +1,12 @@
+{
+  "_id": {
+    "$oid": "66a8f75ecdc6f9e42ec45d97"
+  },
+  "title": "Test1",
+  "desc": "Desc",
+  "content": "content test",
+  "username": "john",
+  "img": "https://images.pexels.com/photos/11898101/pexels-photo-11898101.jpeg?auto=compress&cs=tinysrgb&w=300&lazy=load"
+}
+
+MONGO = mongodb://127.0.0.1:27017/test?ssl=false
